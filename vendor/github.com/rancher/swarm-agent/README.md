@@ -1,8 +1,7 @@
-kubectld
+swarm-agent
 ========
 
-An embarrassingly simple microservice to expose `kubectl` `create/apply/get` logic
-
+A microservice that does micro things.
 
 ## Building
 
@@ -11,9 +10,7 @@ An embarrassingly simple microservice to expose `kubectl` `create/apply/get` log
 
 ## Running
 
-`./bin/kubectld`
-
-This will run on port 8091.  If you would like a different port, edit the source code :)
+`./bin/swarm-agent`
 
 ## License
 Copyright (c) 2014-2016 [Rancher Labs, Inc.](http://rancher.com)
