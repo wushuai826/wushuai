@@ -9,21 +9,3 @@ for i in {9..1};do
     done
 done
 
-
-aaa
-bbbb
-cccc
-
-ddddd
-
-e
-e
-
-
-e
-e
-
-eff
-
-
-
