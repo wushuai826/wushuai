@@ -5,7 +5,7 @@ for i in {9..1};do
 	    if [ $j = $i ];then
 	        echo  -e " \n "
 	       	break
-	    fi
+	    fa
     done
 done
 
