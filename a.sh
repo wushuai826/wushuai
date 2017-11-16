@@ -3,3 +3,4 @@
 ZZZ=source ./ws.sh
 wodemingzijiaio
 echo $ZZZ >> ws.txt
+1..9
