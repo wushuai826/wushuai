@@ -9,8 +9,5 @@ for i in {9..1};do
     done
 done
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> a858ca78ba039b9e1fc91eea19401fcfb0cf9a86
