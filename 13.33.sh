@@ -5,9 +5,12 @@ for i in {9..1};do
 	    if [ $j = $i ];then
 	        echo  -e " \n "
 	       	break
-	    fi
+	    fa
     done
 done
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> a858ca78ba039b9e1fc91eea19401fcfb0cf9a86
